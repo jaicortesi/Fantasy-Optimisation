@@ -2,7 +2,7 @@
 Hi,
 
 I built a Premier League fantasy football optimisation model, training XGBoost and other regression models on historical player data to predict points, then using constrained optimisation to assemble the highest-scoring squad within budget and positional limits.
-The model performed well (test MSE of 0.0427), though I'd approach a few things differently now: the training data was limited to one season, I didn't account for fixture difficulty or form momentum, and the optimisation didn't consider captain selection or bench strategy. This project is exactly why I'm drawn to Stats Perform. I want to work where sports data and AI intersect at the highest level, and I'd welcome the chance to discuss how my background fits.
+The model performed well (test MSE of 0.0427), though I'd approach a few things differently now: the training data was limited to one season, I didn't account for fixture difficulty or form momentum, and the optimisation didn't consider captain selection or bench strategy.
 I've linked the notebook here: https://github.com/jaicortesi/Fantasy-Optimisation/blob/main/MATH10%20Final%20Project.ipynb
 
 Jai Cortesi
